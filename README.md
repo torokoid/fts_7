@@ -88,7 +88,7 @@ body::before {
 
 <br><br><br><br>
 
-<div style=" background-color:grey;">
+<div style=" background-color:yellow;">
 <p><span class="yellow">
 From: MASAYO ARAI (荒井 雅代) <masayo_arai@jp.honda> <br>
 Sent: Monday, July 8, 2024 9:08 AM<br>
