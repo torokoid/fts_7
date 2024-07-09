@@ -88,7 +88,7 @@ body::before {
 
 <br><br><br><br>
 
-
+<div style=" background-color:grey;">
 <p><span class="yellow">
 From: MASAYO ARAI (荒井 雅代) <masayo_arai@jp.honda> <br>
 Sent: Monday, July 8, 2024 9:08 AM<br>
@@ -112,7 +112,7 @@ FTS関連生存確認会を明日開催します。<br>
 
 </span>
 </p>
-
+</div>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
