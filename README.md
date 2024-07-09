@@ -88,8 +88,8 @@ body::before {
 
 <br><br><br><br>
 
-<div style=" background-color:waku;">
-<p>
+
+<p><span class="yellow">
 From: MASAYO ARAI (荒井 雅代) <masayo_arai@jp.honda> <br>
 Sent: Monday, July 8, 2024 9:08 AM<br>
 To: katom91649@gmail.com; mm113.green@gmail.com; kazk408@gmail.com; tomiji.sugimoto@tmg-n.com; gonnemomo@yahoo.co.jp; yoshi.0611yama@ezweb.ne.jp; m-tsuge0392@xb4.so-net.ne.jp; toshio.yokoyama@aist.go.jp; t_yaguchi@mtj.biglobe.ne.jp; youmh1@docomo.ne.jp; SHUICHI KATO (加藤 秀一) <shuichi_kato@jp.honda>; YUJI SAITO (斉藤 祐司) <yuji_saito@jp.honda>; y-saito@its-jp.org; TAKERO SHIBUKAWA (澁川 岳郎) <takero_shibukawa@jp.honda>; mikoba254@gmail.com; SATOSHI HADA (羽田 智) <satoshi_hada@jp.honda>; JUN TOMIZAWA (冨沢 潤) <jun_tomizawa@jp.honda>; masashi.satomura.01@gmail.com; kzy.tamura@gmail.com; KAZUYUKI MARUYAMA (丸山 一幸) <kazuyuki_maruyama@jp.honda><br>
@@ -110,9 +110,10 @@ FTS関連生存確認会を明日開催します。<br>
 
 荒井雅代<br>
 
+</span>
 </p>
 
-</div>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
