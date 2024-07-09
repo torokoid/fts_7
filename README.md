@@ -45,7 +45,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/fts_6/20231011_005.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/fts_7/20240709_000.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
