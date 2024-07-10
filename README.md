@@ -83,7 +83,7 @@ body::before {
 <a href="20240709_020.JPG" data-lightbox="abc"><img src="20240709_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240709_021.JPG" data-lightbox="abc"><img src="20240709_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240709_022.JPG" data-lightbox="abc"><img src="20240709_022.JPG" alt="サンプル画像" width="900" /></a>
-<p>ここまでの5枚は矢口さん撮影</p><!--
+<p>ここまでの3枚は矢口さん撮影</p><!--
 <a href="20231011_017.JPG" data-lightbox="abc"><img src="20231011_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231011_018.JPG" data-lightbox="abc"><img src="20231011_018.JPG" alt="サンプル画像" width="900" /></a>
 <p>ここまでの5枚は櫛田さん撮影</p>
