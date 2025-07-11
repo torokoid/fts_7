@@ -54,7 +54,7 @@ body::before {
  
 </head>
 <body>
-<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>><a href="https://torokoid.github.io/fts_4">リアル同窓会_2</a>><a href="https://torokoid.github.io/fts_5">リアル同窓会_3</a>><a href="https://torokoid.github.io/fts_6">リアル同窓会_4</a>>リアル同窓会_5</p>
+<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>><a href="https://torokoid.github.io/fts_4">リアル同窓会_2</a>><a href="https://torokoid.github.io/fts_5">リアル同窓会_3</a>><a href="https://torokoid.github.io/fts_6">リアル同窓会_4</a>>リアル同窓会_5><a href="https://torokoid.github.io/fts_8">リアル同窓会_6</a></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2024年7月9日(火)リアル安否確認会の記録＠男前料理と五島列島直送の魚　神楽坂はずれ　無花果 !!!</marquee></span></h1>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
